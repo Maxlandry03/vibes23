@@ -72,6 +72,11 @@
  }
  /*header*/
  
+ #header a img {
+     width: 190px;
+     height: 45px;
+ }
+ 
  #header {
      display: flex;
      align-items: center;
@@ -482,6 +487,8 @@
  
  footer .logo {
      margin-bottom: 30px;
+     width: 150px;
+     height: 45px;
  }
  
  footer h4 {
